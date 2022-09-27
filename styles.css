@@ -1,0 +1,19 @@
+body {
+  font-family: verdana;
+  padding: 5px;
+  text-align: center;
+}
+h1 {
+  margin: 0;
+  padding: 0;
+}
+#banner {
+  max-width: 90%;
+  color: green;
+}
+#spinner {
+  color: red;
+}
+#controls {
+  padding: 5px;
+}
